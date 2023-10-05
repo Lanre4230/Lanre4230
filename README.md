@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lanre4230
-- 👀 I’m interested in programming language
+- 👋 Hi, I’m @Lanre
+- 👀 I’m interested everything
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @lanre4230@gmail.com
